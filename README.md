@@ -4,5 +4,5 @@ Artificial Superintelligence for the (Good!) Quasieternity for (Good!) Happiness
 <blockquote>I BEGIN TO SEE THE REASON WHY I'M HERE!</blockquote> <p><i>(mishearded Emerson, Lake & Palmer, Trilogy, The Endless Enigma (Part Two))</i></p>
 
 <p>
-  Related: https://github.com/EvgeniyGrigoryevitchPhilippov/ASI_knots
+  Related repository: https://github.com/egphilippov1/ASI_knots
 </p>
